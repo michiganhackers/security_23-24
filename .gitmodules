@@ -1,0 +1,9 @@
+[submodule "phishingTime"]
+	path = phishingTime
+	url = git@github.com:MatthewZepf/security_phishing.git
+[submodule "security_keylogger"]
+	path = security_keylogger
+	url = git@github.com:MatthewZepf/security_keylogger.git
+[submodule "rsa"]
+	path = rsa
+	url = git@github.com:MatthewZepf/security_rsa.git
